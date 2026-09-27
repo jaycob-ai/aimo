@@ -27,7 +27,7 @@ AIMO 是一个 Codex 技能（Skill）。它把「每天固定收集 AI 信息�
 在 Codex 里发这一句话：
 
 ```
-安装这个技能：https://github.com/jaycob1202-eng/aimo/tree/main/aimo
+安装这个技能：https://github.com/jaycob-ai/aimo/tree/main/aimo
 ```
 
 装完新开一个对话，输入 `AIMO` 即可。
