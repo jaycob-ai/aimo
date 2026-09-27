@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIMO"
+  short_description: "查看、筛选并更新每日 AI 新闻与行业信息"
+  default_prompt: "使用 $aimo 检索并展示前一个自然日的 AI 新闻候选，等我确认后再更新；只有我明确要求补录时才回填历史日期。"
